@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/moving-circles%20/static/css/main.0601f76a.chunk.css",
-    "main.js": "/moving-circles%20/static/js/main.3db96e09.chunk.js",
-    "main.js.map": "/moving-circles%20/static/js/main.3db96e09.chunk.js.map",
-    "runtime-main.js": "/moving-circles%20/static/js/runtime-main.2deb6ee6.js",
-    "runtime-main.js.map": "/moving-circles%20/static/js/runtime-main.2deb6ee6.js.map",
-    "static/js/2.0038530b.chunk.js": "/moving-circles%20/static/js/2.0038530b.chunk.js",
-    "static/js/2.0038530b.chunk.js.map": "/moving-circles%20/static/js/2.0038530b.chunk.js.map",
-    "static/js/3.96f5dc25.chunk.js": "/moving-circles%20/static/js/3.96f5dc25.chunk.js",
-    "static/js/3.96f5dc25.chunk.js.map": "/moving-circles%20/static/js/3.96f5dc25.chunk.js.map",
-    "index.html": "/moving-circles%20/index.html",
-    "static/css/main.0601f76a.chunk.css.map": "/moving-circles%20/static/css/main.0601f76a.chunk.css.map",
-    "static/js/2.0038530b.chunk.js.LICENSE.txt": "/moving-circles%20/static/js/2.0038530b.chunk.js.LICENSE.txt"
+    "main.css": "/moving-circles/%20/static/css/main.0601f76a.chunk.css",
+    "main.js": "/moving-circles/%20/static/js/main.3db96e09.chunk.js",
+    "main.js.map": "/moving-circles/%20/static/js/main.3db96e09.chunk.js.map",
+    "runtime-main.js": "/moving-circles/%20/static/js/runtime-main.849f886d.js",
+    "runtime-main.js.map": "/moving-circles/%20/static/js/runtime-main.849f886d.js.map",
+    "static/js/2.0038530b.chunk.js": "/moving-circles/%20/static/js/2.0038530b.chunk.js",
+    "static/js/2.0038530b.chunk.js.map": "/moving-circles/%20/static/js/2.0038530b.chunk.js.map",
+    "static/js/3.96f5dc25.chunk.js": "/moving-circles/%20/static/js/3.96f5dc25.chunk.js",
+    "static/js/3.96f5dc25.chunk.js.map": "/moving-circles/%20/static/js/3.96f5dc25.chunk.js.map",
+    "index.html": "/moving-circles/%20/index.html",
+    "static/css/main.0601f76a.chunk.css.map": "/moving-circles/%20/static/css/main.0601f76a.chunk.css.map",
+    "static/js/2.0038530b.chunk.js.LICENSE.txt": "/moving-circles/%20/static/js/2.0038530b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2deb6ee6.js",
+    "static/js/runtime-main.849f886d.js",
     "static/js/2.0038530b.chunk.js",
     "static/css/main.0601f76a.chunk.css",
     "static/js/main.3db96e09.chunk.js"
