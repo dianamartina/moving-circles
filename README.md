@@ -1,20 +1,12 @@
-# Sparktech FE Candidate pre-interview app
+# Floating circles
 
-Hi, there! Thanks for your interest in the FE Developer position at Sparktech Software. The following app contains several challenges we got for you.
+Small app animation using Gsap Library with React styled using Material UI.
 
-Your quest is to change this app until it meets the requirements mentioned in the other README.md files.
+The home page has three cards, the second and third on hover highlights
+the first one with a transition effect up and down.
 
-We recommend starting with the README.md file from `src/features/Dashboard`. See you there!
+Taping the first card will make the second and third flow away and the first one will move to the middle, scale in, and disappear switching to the second-page app.
+(mode details on the Readme file from Deshbord folder)
 
-## Oh right...
-
-You might want to know how to start this app. Well, it's not big deal, just run `yarn` to install all the dependencies and `yarn start` to start the app.
-
-I guess you can use npm too.
-
-## And finally
-
-Send us the final codebase as an archive, but don't forget to **remove node_modules** before zipping it.
-
-Good luck!
-# floating-circles
+The second page with the URL "..../problem1" animates an SVG, using Gsap library on React.
+(mode details on the Readme file from Problem1 folder)
